@@ -39,6 +39,3 @@ var requestOptions = {
 };
 // console.log(getHTML(requestOptions, printHTML));
 
-module.exports = function getHTML (options, callback) {
-    /* Your code here */
-};
